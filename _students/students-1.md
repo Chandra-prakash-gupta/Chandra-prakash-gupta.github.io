@@ -1,7 +1,7 @@
 ---
 title: "Students"
 ---
-Current PhD Students  
+PhD Students  
 ======
 - **Rinky Singh**: Pursuing PhD at Jagannath University.  
 - **Sushree**: Assistant Professor at VGU Jaipur (Co-Supervisor).
